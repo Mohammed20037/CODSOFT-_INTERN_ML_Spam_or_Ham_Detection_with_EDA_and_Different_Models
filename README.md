@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the "Spam or Ham Detection with EDA and Different Models" project. This project is part of an ML internship with Code Soft, where we aim to tackle the challenging task of spam detection using a combination of Exploratory Data Analysis (EDA) and various machine learning models. Effective spam detection is crucial for email filtering and text classification.
+Welcome to the "Spam or Ham Detection with EDA and Different Models" project. This project is part of an ML internship with CodSoft, where we aim to tackle the challenging task of spam detection using a combination of Exploratory Data Analysis (EDA) and various machine learning models. Effective spam detection is crucial for email filtering and text classification.
 
 ## Dataset
 
@@ -63,7 +63,7 @@ Our journey involves the implementation and evaluation of several machine learni
 
 ## Conclusion
 
-This project, undertaken as part of an ML internship with Code Soft, provides invaluable insights into the effectiveness of various machine learning models for spam detection. Our results have significant implications for email filtering and text classification systems.
+This project, undertaken as part of an ML internship with CodSoft, provides invaluable insights into the effectiveness of various machine learning models for spam detection. Our results have significant implications for email filtering and text classification systems.
 
 In summary:
 
